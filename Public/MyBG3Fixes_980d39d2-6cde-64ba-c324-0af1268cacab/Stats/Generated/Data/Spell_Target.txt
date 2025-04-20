@@ -1,0 +1,5 @@
+new entry "Target_BoomingBlade_ClassSpell"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_BoomingBlade_ClassSpell"
+data "DamageType" "Thunder"
